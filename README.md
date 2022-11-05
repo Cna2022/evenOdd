@@ -1,5 +1,4 @@
 # evenOdd
 
-[![Build Status](http://localhost:8080/buildStatus/icon?job=publish-reports-failure)](http://localhost:8080/job/publish-reports-failure/)
-
+[Build Status](http://localhost:8080/buildStatus/icon?job=param_pipe "http://localhost:8080/job/param_pipe/")
 ggggggggggggggggggggggggggggggggggggggggggggggggg
